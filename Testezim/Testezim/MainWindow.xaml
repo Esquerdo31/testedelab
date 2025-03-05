@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Height="171" Margin="221,0,0,0" VerticalAlignment="Center" Width="341" Click="Button_Click"/>
+        <Button Content="Button" HorizontalAlignment="Center" Height="51" Margin="0,343,0,0" VerticalAlignment="Top" Width="204" Click="Button_Click"/>
+        <Label Content="João Pimentel" HorizontalAlignment="Center" Height="76" VerticalAlignment="Center" Width="316" FontSize="48"/>
 
     </Grid>
 </Window>
