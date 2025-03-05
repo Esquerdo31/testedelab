@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Height="171" Margin="221,0,0,0" VerticalAlignment="Center" Width="341" Click="Button_Click"/>
+        <Label Content="Hugo Label" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="40" Margin="53,35,0,0"/>
 
     </Grid>
 </Window>
